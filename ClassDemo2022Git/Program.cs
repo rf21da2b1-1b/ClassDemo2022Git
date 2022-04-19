@@ -6,7 +6,6 @@ namespace ClassDemo2022Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Peter was here");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Jakob was here");
         }
